@@ -12,7 +12,13 @@ Aim of overall study: Design marketing strategies aimed at converting casual rid
 
 #### Data for analysis
 
-Where is your data located?
-Cyclistic’s historical trip data was used to analyze and identify trends. 
+Where is the data located? and How is the data organized?
 
-How is the data organized?
+Cyclistic’s historical trip data was used to analyze and identify trends. The data was available at https://divvy-tripdata.s3.amazonaws.com/index.html 
+
+The data was organised moth-wise and was available for several years. For the purpose of this analysis all 12 months data of 2022 was considered. 
+
+Licensing of the data?
+
+The data is a public data which is open source since there is no personally identifiable information that will be requried or used in this analysis.
+
